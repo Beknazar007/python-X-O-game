@@ -1,7 +1,0 @@
-venv
-.idea
-app.py
-index.html
-init_db.py
-requirements.txt
-test_hello_world.py
